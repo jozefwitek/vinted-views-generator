@@ -3,7 +3,7 @@
 # Vinted Views Generator
 Requests based multi-threaded script for increasing views on Vinted
   
-  ![Bez tytułu](https://user-images.githubusercontent.com/26097711/163727765-422faa8c-ee00-4735-9d9c-63020c587a1a.png)
+  ![image](https://user-images.githubusercontent.com/26097711/163727765-422faa8c-ee00-4735-9d9c-63020c587a1a.png)
 
 
 </div>
